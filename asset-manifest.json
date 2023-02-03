@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/steps-form/static/css/main.e6c13ad2.css",
+    "main.js": "/steps-form/static/js/main.d9943c33.js",
+    "static/js/787.acaaae64.chunk.js": "/steps-form/static/js/787.acaaae64.chunk.js",
+    "static/media/book.svg": "/steps-form/static/media/book.42eae963cdea409ab6518b57c47db98e.svg",
+    "static/media/profile.svg": "/steps-form/static/media/profile.813d4fd37a9d1418ded4fa3bea065590.svg",
+    "static/media/mail.svg": "/steps-form/static/media/mail.42fe45d20eca53f3284e54b7e2b0438b.svg",
+    "index.html": "/steps-form/index.html",
+    "main.e6c13ad2.css.map": "/steps-form/static/css/main.e6c13ad2.css.map",
+    "main.d9943c33.js.map": "/steps-form/static/js/main.d9943c33.js.map",
+    "787.acaaae64.chunk.js.map": "/steps-form/static/js/787.acaaae64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9943c33.js"
+  ]
+}
